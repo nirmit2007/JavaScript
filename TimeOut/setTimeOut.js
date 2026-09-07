@@ -1,4 +1,3 @@
-
 console.log("first")
 setTimeout(()=>{
     console.log("after 3 second...")
